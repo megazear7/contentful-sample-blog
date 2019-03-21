@@ -1,14 +1,9 @@
 ## Architecture
-Content Management with Contentful
-https://app.contentful.com/spaces/8blvhwbk2pug/home
+Content Management with [Contentful](https://app.contentful.com/spaces/8blvhwbk2pug/home)
 
-Static Hosting with Netlify
-https://app.netlify.com/sites/romantic-poincare-cc7195/settings/deploys
+Static Hosting with [Netlify](https://app.netlify.com/sites/romantic-poincare-cc7195/settings/deploys)
 
-Application Implementation with Gatsby, React, and GraphQL
-https://www.gatsbyjs.org/
-https://reactjs.org/
-https://graphql.org/
+Application Implementation with [Gatsby](https://www.gatsbyjs.org/) [React](https://reactjs.org/) and [GraphQL](https://graphql.org/)
 
 ## Crucial Commands
 
