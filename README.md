@@ -3,7 +3,7 @@ Content Management with [Contentful](https://app.contentful.com/spaces/8blvhwbk2
 
 Static Hosting with [Netlify](https://app.netlify.com/sites/romantic-poincare-cc7195/settings/deploys)
 
-Application Implementation with [Gatsby](https://www.gatsbyjs.org/) [React](https://reactjs.org/) and [GraphQL](https://graphql.org/)
+Application Implementation with [Gatsby](https://www.gatsbyjs.org/), [React](https://reactjs.org/), and [GraphQL](https://graphql.org/)
 
 ## Crucial Commands
 
